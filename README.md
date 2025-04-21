@@ -13,3 +13,7 @@ Clone the repository:
     git clone https://github.com/abdullahwar28/CV.git
 
 Open index.html in your preferred web browser.
+
+## **Project Link**
+
+    https://roadmap.sh/projects/single-page-cv
